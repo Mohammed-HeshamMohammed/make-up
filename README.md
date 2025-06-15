@@ -1,117 +1,38 @@
-# 💄 GlamVan — Premium Mobile Beauty Salon
+# 🚐 GlamVan – Premium Mobile Beauty Salon
 
-## ✨ Experience Luxury on Wheels  
-**Bringing salon-quality beauty treatments directly to your doorstep** in **New Cairo, El Rehab, and Sheikh Zayed**.  
-Our luxury vans are fully equipped for a flawless beauty experience — anytime, anywhere.
-
-### 💅 Book Now | 👰 Wedding Packages  
-📞 +20 112 345 6789 (10:00 AM – 5:00 PM Daily)  
-📧 support@glamvan.com  
-📍 Service Areas: New Cairo, El Rehab, Sheikh Zayed
+Welcome to the GlamVan repository!  
+This project powers a luxury mobile beauty salon booking platform, serving clients across **New Cairo**, **El Rehab**, and **Sheikh Zayed**.
 
 ---
 
-## 👑 Trusted by 500+ Happy Clients
+## ✨ What is GlamVan?
 
-Meet our mobile beauty experts — **JS, KM, RH** — bringing professionalism and pampering in one luxurious ride.
+**GlamVan** brings salon-quality services right to your doorstep — hair, nails, lashes, makeup, and full wedding packages — delivered via fully equipped mobile vans.
 
-> _"Timeliness built into our service DNA."_
+Built with:
 
----
-
-## 💇‍♀️ Our Services  
-**Premium Beauty Services** delivered by expert beauticians directly to your location.
-
-| Category  | Description                          |
-|-----------|---------------------------------------|
-| Hair      | Professional hair styling and care    |
-| Nails     | Manicures, pedicures, and gel options |
-| Lashes    | Lash lifts, classic and hybrid sets   |
-| Makeup    | Everyday glam to event-ready looks    |
-| Wedding   | Full bridal packages and party prep   |
-
-➡️ [View All Services](#)
+- ⚡ [Vite](https://vitejs.dev/)
+- ⚛️ [React](https://react.dev/)
+- 🧠 [TypeScript](https://www.typescriptlang.org/)
+- 🎨 [Tailwind CSS](https://tailwindcss.com/)
+- 🧩 [shadcn/ui](https://ui.shadcn.com/)
+- 🔥 Supabase for backend data
 
 ---
 
-## 💍 Wedding Specialists  
-**Exclusive wedding beauty solutions** in a private mobile salon.
+## 🚀 Getting Started
 
-- **Full-Day Reservation** – Book the van for touch-ups all day  
-- **Bridal Party Package** – Bride, bridesmaids, and mothers  
-- **Digital Contracts** – Secure with 50% deposit and online signing
+To run this project locally:
 
-➡️ [Explore Wedding Packages](#)
+```bash
+# 1. Clone the repository
+git clone https://github.com/YOUR_USERNAME/glamvan.git
 
-🗣 _"GlamVan made my wedding day perfect!"_  
-— **Noor Ahmed**, Bride, Sheikh Zayed
+# 2. Navigate into the project
+cd glamvan
 
----
+# 3. Install dependencies
+npm install
 
-## 🛠️ How It Works  
-A simple 4-step process:
-
-1. **Choose Your Services**  
-2. **Select Date & Location**  
-3. **Secure Payment**  
-4. **Track Your Stylist** (Real-time van tracking)
-
-➡️ [Book Your Appointment](#)
-
----
-
-## 💬 Testimonials  
-_“Don’t just take our word for it – hear from our satisfied clients who experienced our luxury mobile salon.”_
-
----
-
-## 📞 Contact Us  
-Have questions? Want to schedule a consultation?
-
-- **Phone:** +20 112 345 6789  
-- **Email:** support@glamvan.com  
-- **Service Areas:** New Cairo, El Rehab, Sheikh Zayed  
-
-📱 [Facebook] • [Instagram] • [TikTok]
-
----
-
-## 📝 Get in Touch
-
-**Full Name**: _Your name_  
-**Email**: _Your email_  
-**Phone Number**: _Your phone number_  
-**Message**: _How can we help you?_  
-
-➡️ [Send Message](#)
-
----
-
-## 🚐 About GlamVan  
-Luxury beauty services delivered via mobile vans.  
-Exclusive wedding packages. Operating in New Cairo, El Rehab, and Sheikh Zayed.
-
----
-
-## 🔗 Quick Links  
-- Home  
-- Services  
-- Wedding  
-- About Us  
-- Contact
-
-### Categories
-- Hair Styling  
-- Makeup  
-- Nail Care  
-- Lash Extensions
-
----
-
-### 📍 Contact  
-📞 +20 112 345 6789  
-📧 support@glamvan.com  
-📍 New Cairo, El Rehab, Sheikh Zayed  
-
-© 2025 GlamVan Mobile Salon. All rights reserved.  
-[Privacy Policy] • [Terms of Service]
+# 4. Start the development server
+npm run dev
