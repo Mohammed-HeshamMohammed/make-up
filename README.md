@@ -1,73 +1,117 @@
-# Welcome to your Lovable project
+# 💄 GlamVan — Premium Mobile Beauty Salon
 
-## Project info
+## ✨ Experience Luxury on Wheels  
+**Bringing salon-quality beauty treatments directly to your doorstep** in **New Cairo, El Rehab, and Sheikh Zayed**.  
+Our luxury vans are fully equipped for a flawless beauty experience — anytime, anywhere.
 
-**URL**: https://lovable.dev/projects/52ee752f-f7e0-4ec9-8d97-32979bcdaa9a
+### 💅 Book Now | 👰 Wedding Packages  
+📞 +20 112 345 6789 (10:00 AM – 5:00 PM Daily)  
+📧 support@glamvan.com  
+📍 Service Areas: New Cairo, El Rehab, Sheikh Zayed
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 👑 Trusted by 500+ Happy Clients
 
-**Use Lovable**
+Meet our mobile beauty experts — **JS, KM, RH** — bringing professionalism and pampering in one luxurious ride.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/52ee752f-f7e0-4ec9-8d97-32979bcdaa9a) and start prompting.
+> _"Timeliness built into our service DNA."_
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 💇‍♀️ Our Services  
+**Premium Beauty Services** delivered by expert beauticians directly to your location.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+| Category  | Description                          |
+|-----------|---------------------------------------|
+| Hair      | Professional hair styling and care    |
+| Nails     | Manicures, pedicures, and gel options |
+| Lashes    | Lash lifts, classic and hybrid sets   |
+| Makeup    | Everyday glam to event-ready looks    |
+| Wedding   | Full bridal packages and party prep   |
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+➡️ [View All Services](#)
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 💍 Wedding Specialists  
+**Exclusive wedding beauty solutions** in a private mobile salon.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+- **Full-Day Reservation** – Book the van for touch-ups all day  
+- **Bridal Party Package** – Bride, bridesmaids, and mothers  
+- **Digital Contracts** – Secure with 50% deposit and online signing
 
-# Step 3: Install the necessary dependencies.
-npm i
+➡️ [Explore Wedding Packages](#)
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+🗣 _"GlamVan made my wedding day perfect!"_  
+— **Noor Ahmed**, Bride, Sheikh Zayed
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 🛠️ How It Works  
+A simple 4-step process:
 
-**Use GitHub Codespaces**
+1. **Choose Your Services**  
+2. **Select Date & Location**  
+3. **Secure Payment**  
+4. **Track Your Stylist** (Real-time van tracking)
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+➡️ [Book Your Appointment](#)
 
-## What technologies are used for this project?
+---
 
-This project is built with:
+## 💬 Testimonials  
+_“Don’t just take our word for it – hear from our satisfied clients who experienced our luxury mobile salon.”_
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
+## 📞 Contact Us  
+Have questions? Want to schedule a consultation?
 
-Simply open [Lovable](https://lovable.dev/projects/52ee752f-f7e0-4ec9-8d97-32979bcdaa9a) and click on Share -> Publish.
+- **Phone:** +20 112 345 6789  
+- **Email:** support@glamvan.com  
+- **Service Areas:** New Cairo, El Rehab, Sheikh Zayed  
 
-## Can I connect a custom domain to my Lovable project?
+📱 [Facebook] • [Instagram] • [TikTok]
 
-Yes, you can!
+---
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+## 📝 Get in Touch
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+**Full Name**: _Your name_  
+**Email**: _Your email_  
+**Phone Number**: _Your phone number_  
+**Message**: _How can we help you?_  
+
+➡️ [Send Message](#)
+
+---
+
+## 🚐 About GlamVan  
+Luxury beauty services delivered via mobile vans.  
+Exclusive wedding packages. Operating in New Cairo, El Rehab, and Sheikh Zayed.
+
+---
+
+## 🔗 Quick Links  
+- Home  
+- Services  
+- Wedding  
+- About Us  
+- Contact
+
+### Categories
+- Hair Styling  
+- Makeup  
+- Nail Care  
+- Lash Extensions
+
+---
+
+### 📍 Contact  
+📞 +20 112 345 6789  
+📧 support@glamvan.com  
+📍 New Cairo, El Rehab, Sheikh Zayed  
+
+© 2025 GlamVan Mobile Salon. All rights reserved.  
+[Privacy Policy] • [Terms of Service]
